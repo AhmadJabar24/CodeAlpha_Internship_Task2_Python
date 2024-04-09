@@ -13,11 +13,13 @@ Live data saving , where the info is stored immediately after exec.
 Changing, username and password
 
 **Installation**
+
 Download python3.10
 Install flask python library
 pip3 install flask
 
 **Execution**
+
 Download the source code.
 Extract the file and open terminal in that folder
 Open terminal and run these code
