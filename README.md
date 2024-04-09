@@ -1,3 +1,4 @@
+
 This projects provide stock simuulation platform, where user gets some credits and user can use their credits to invested in virtuals share simulation.
 
 Sample account for testing:-
